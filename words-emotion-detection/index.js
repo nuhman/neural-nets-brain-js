@@ -1,8 +1,8 @@
 const brain = require("brain.js");
 
 // import our datasets
-const happy = require('./data-happy');
-const sad = require("./data-sad");
+const happy = require('./data_happy_words');
+const sad = require("./data_sad_words");
 
 const moods = [
   ...happy,
