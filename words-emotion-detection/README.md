@@ -1,4 +1,4 @@
-## Emotional Detection in a String
+## Emotion Detection in a given string of words
   
 *Note: Currently only supports two emotions: `happy` and `sad`*  
   
